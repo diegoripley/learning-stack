@@ -1,4 +1,4 @@
-# learning-stack
+# learning
 
 A central repository for tracking personal and professional development, covering technical skills, soft skills, and general learning objectives.
 
